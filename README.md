@@ -8,9 +8,9 @@ Using App :
 ## clipสาธิตการทำงานของเกม
 [https://drive.google.com/file/d/1WVH_I-fq4ntn-8SRidNetnHlqNPKq5Al/view?usp=sharing](https://youtu.be/4a7Y22GDCcM)
 
-Part 1 NumberGuessingGame ( 0:15 - 0:39 )
-Part 2 QuizGame ( 0:46 - 1:23 )
-Part 3 MathGame ( 1:27)
++ Part 1 NumberGuessingGame ( 0:15 - 0:39 )
++ Part 2 QuizGame ( 0:46 - 1:23 )
++ Part 3 MathGame ( 1:27)
 
 
 ## Members
