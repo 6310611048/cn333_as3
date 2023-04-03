@@ -79,7 +79,7 @@ https://youtu.be/CgxVgcBEHNE
 
   ![Show Screen](MyQuizApp/app/src/main/res/drawable/over.png)
 
-## Calgame
+## CalGame
 ## เป็นเกมคำนวณตัวเลขทางคณิตศาสตร์
 
 ## clipสาธิตการทำงานของเกม
