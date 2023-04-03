@@ -83,10 +83,6 @@ https://youtu.be/CgxVgcBEHNE
 ## MathGame
 ## เป็นเกมคำนวณตัวเลขทางคณิตศาสตร์
 
-## clipสาธิตการทำงานของเกม
-https://drive.google.com/file/d/1WVH_I-fq4ntn-8SRidNetnHlqNPKq5Al/view?usp=sharing
-
-
 1. เกมจะเริ่มเมื่อผู้ใช้ทำการกรอกตัวเลขที่จะคำนวณได้ ทำการกด ปุ่ม Next เพื่อไปข้อถัดไป
 
    OUTPUT : แสดงจำนวนข้อทั้งหมดและจำนวนข้อปัจจุบันที่ทำไปแล้ว, จะแสดง Score
